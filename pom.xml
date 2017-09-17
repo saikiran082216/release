@@ -12,4 +12,7 @@
   <modules>
     <module>simple-webapp</module>
   </modules>
+  <scm>
+  <developerConnection>scm:git:https://github.com/saikiran082216/ciproject.git</developerConnection>
+  </scm>
 </project>
