@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0                               http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.sonatype.mavenbook.simpleweb</groupId>
   <artifactId>parent</artifactId>
-  <version>1.3-SNAPSHOT</version>
+  <version>1.4</version>
   <packaging>pom</packaging>
   <name>Simple Web Chapter Parent Project</name>
   <modules>
@@ -11,7 +11,7 @@
   </modules>
   <scm>
     <developerConnection>scm:git:https://github.com/saikiran082216/ciproject.git</developerConnection>
-    <tag>release 1.2</tag>
+    <tag>1.4-release</tag>
   </scm>
   <distributionManagement>
   <snapshotRepository>
