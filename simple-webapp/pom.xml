@@ -44,4 +44,15 @@
       </plugin>
     </plugins>
   </build>
+  <distributionManagement>
+  <snapshotRepository>
+    <id>snapshots</id>
+        <name>SNAPSHOT</name>
+    <url>hhttp://34.207.112.95:8081/nexus-2.14.5-02/content/repositories/snapshots/</url>
+  </snapshotRepository>
+    <repository>
+    <id>releases</id>
+    <url>http://34.207.112.95:8081/nexus-2.14.5-02/content/repositories/releases/</url>
+   </repository>
+   </distributionManagement>
 </project>
