@@ -4,10 +4,10 @@
   <parent>
   	<artifactId>parent</artifactId>
   	<groupId>org.sonatype.mavenbook.simpleweb</groupId>
-  	<version>1.5</version>
+  	<version>1.6</version>
   </parent>
   <artifactId>simple-webapp</artifactId>
-  <version>1.5</version>
+  <version>1.6</version>
   <packaging>war</packaging>
   <name>Simple Web Chapter Application Project</name>
   <dependencies>
